@@ -4,4 +4,4 @@
 - 🔭 I’m currently working on a few programs to manage my workload in an efficient way<br/>.
 - 🤔 I’m currently working with Pything (Tkinter), HTML, CSS and JS.<br/>.
 
-[![Kenneth's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkaurasi)](https://github.com/anuraghazra/github-readme-stats)
+![Kenneth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kkaurasi&show_icons=true&theme=dracula)
