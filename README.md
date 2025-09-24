@@ -1,8 +1,8 @@
 ## Hi, I'm Kenneth 👋
 
-- 🌱 I’m currently a Senior Support Agent sharing about my journey and learning in tech<br/>
+- 🌱 I’m currently a Technical Support Engineer sharing about my journey and learning in tech<br/>
 - 🔭 I’m currently working on a few programs to manage my workload in an efficient way<br/>
-- 🤔 I’m currently working with Python (Tkinter), HTML, CSS and JS.<br/>
+- 🤔 I’m currently working with Python (Tkinter), AWS SDK boto3, HTML, CSS and JS.<br/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kenneth-kaurasi) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/KayROK) <br/>
